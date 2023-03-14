@@ -1,4 +1,4 @@
-# Resafios de programação
+# Desafios de programação
 
 Repositório para meus códigos da matéria de desafios de programação
 
